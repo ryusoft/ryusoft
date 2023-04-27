@@ -47,4 +47,14 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript     4 hrs 11 mins   ██████████████▒░░░░░░░░░░   56.88 %
+PHP            2 hrs 50 mins   █████████▓░░░░░░░░░░░░░░░   38.64 %
+YAML           8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Dockerfile     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+JavaScript     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+SourceMap      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+```
+
 <!--END_SECTION:waka-->
