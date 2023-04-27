@@ -4,7 +4,7 @@
   <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="100"/>
 </div>
 
-<h2 align="center">Hi 👋, I'm RYU Chua</h2>
+<h2 align="center">Hi :wave:, I'm RYU Chua</h2>
 
 <h3 align="center">:computer: What I Use :open_book:</h3>
 <p align="center">
@@ -31,20 +31,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
 </p>
-<!--
-**ryusoft/ryusoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center"> :bar_chart: My Weekly Breakdown :pizza:</h3>
 
 <!--START_SECTION:waka-->
 
