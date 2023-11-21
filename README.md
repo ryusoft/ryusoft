@@ -38,11 +38,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          1 hr 32 mins    █████████████████████░░░░   84.54 %
-textmate     7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
-JSON         5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-Go           3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
