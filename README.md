@@ -21,7 +21,7 @@
   <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Flinux-original.svg?alt=media&token=5c57da04-927f-4968-af40-d09a113c0436" alt="Linux" width="40" height="40"/>&nbsp;
 </p>
 <p align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Fangular-original-wordmark.svg?alt=media&token=13644101-0157-4208-8800-fcd4f92354f9" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Fangular-original.svg?alt=media&token=278f47a5-11fa-4887-87da-6911bd588759" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Fvuejs-original-wordmark.svg?alt=media&token=94006b2a-cbd0-489e-8b1c-a6d8f99518c1" alt="Vue" width="40" height="40"/>&nbsp;
   <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Fhtml5-original-wordmark.svg?alt=media&token=f185d81d-f61d-4829-86f5-1499cb1e521c" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Fcss3-original-wordmark.svg?alt=media&token=01c93846-99f2-423c-b725-a2ccfe2af71c" alt="CSS" width="40" height="40"/>&nbsp;
@@ -29,7 +29,7 @@
   <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Ftypescript-original.svg?alt=media&token=54f95ef9-f282-4f5d-b311-a6c9ce772679" alt="Typesctipt" width="40" height="40"/>&nbsp;
   <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Fbootstrap-original-wordmark.svg?alt=media&token=834fe82a-e1fe-4eb6-a9d3-276024089ac2" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Fflutter-original.svg?alt=media&token=ed7806d1-baf2-455b-8da9-5cfb985fc87e" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Ftailwindcss-original-wordmark.svg?alt=media&token=9fc51ca2-e27a-42fa-b7f3-55f0c909ac19" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
+  <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Ftailwindcss-original.svg?alt=media&token=cd5757f9-b524-48d9-8d64-c60064d0172f" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
 </p>
 
 
