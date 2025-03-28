@@ -8,28 +8,28 @@
 
 <h3 align="center">:computer: What I Use :open_book:</h3>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" alt="Yii" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJs" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="Google Cloud" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Fyii-original-wordmark.svg?alt=media&token=cbead292-3442-4df8-85cf-97c9ce5d0cfd" alt="Yii" width="40" height="40"/>&nbsp;
+  <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Fnestjs-original-wordmark.svg?alt=media&token=e082abcb-3334-4613-bdca-486c1173e8a9" alt="NestJs" width="40" height="40"/>&nbsp;
+  <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Fgo-original.svg?alt=media&token=b58faa9c-6bd0-4823-aa6e-d8bd60d8c312" alt="Go" width="40" height="40"/>&nbsp;
+  <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Fmysql-original-wordmark.svg?alt=media&token=e6ac14af-bb16-4f06-ae92-6baa5e57b1a0" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Fpostgresql-original-wordmark.svg?alt=media&token=94d1ac8d-467a-47db-ab50-a6a7dc5d3614" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Fmongodb-original-wordmark.svg?alt=media&token=13bfb8b9-d69b-45b2-95fa-aa9478dbdd7e" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Ffirebase-original-wordmark.svg?alt=media&token=037c14bb-7df0-4661-b13f-28c515c48d90" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Fgooglecloud-original-wordmark.svg?alt=media&token=c4351488-45f3-49ff-af3a-9f967de86981" alt="Google Cloud" width="40" height="40"/>&nbsp;
+  <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Famazonwebservices-original-wordmark.svg?alt=media&token=c64fbacd-ba60-4ce3-b502-18ff92678bc5" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Fubuntu-original-wordmark.svg?alt=media&token=3191705c-c7f2-42f6-be76-f6db4ebe5729" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Flinux-original.svg?alt=media&token=5c57da04-927f-4968-af40-d09a113c0436" alt="Linux" width="40" height="40"/>&nbsp;
 </p>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typesctipt" width="40" height="40"/>&nbsp;
-  <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
+  <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Fangular-original-wordmark.svg?alt=media&token=13644101-0157-4208-8800-fcd4f92354f9" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Fvuejs-original-wordmark.svg?alt=media&token=94006b2a-cbd0-489e-8b1c-a6d8f99518c1" alt="Vue" width="40" height="40"/>&nbsp;
+  <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Fhtml5-original-wordmark.svg?alt=media&token=f185d81d-f61d-4829-86f5-1499cb1e521c" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Fcss3-original-wordmark.svg?alt=media&token=01c93846-99f2-423c-b725-a2ccfe2af71c" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Fjavascript-original.svg?alt=media&token=dbc83dcf-a228-47f8-9a9b-422ca4bfac5c" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Ftypescript-original.svg?alt=media&token=54f95ef9-f282-4f5d-b311-a6c9ce772679" alt="Typesctipt" width="40" height="40"/>&nbsp;
+  <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Fbootstrap-original-wordmark.svg?alt=media&token=834fe82a-e1fe-4eb6-a9d3-276024089ac2" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Fflutter-original.svg?alt=media&token=ed7806d1-baf2-455b-8da9-5cfb985fc87e" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://firebasestorage.googleapis.com/v0/b/alpstein-core.firebasestorage.app/o/dev-icons%2Ftailwindcss-original-wordmark.svg?alt=media&token=9fc51ca2-e27a-42fa-b7f3-55f0c909ac19" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
 </p>
 
 
