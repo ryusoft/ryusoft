@@ -46,8 +46,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP        1 hr 9 mins     █████████████████████████   99.93 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
