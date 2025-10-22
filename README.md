@@ -46,7 +46,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP     33 mins         ███████████████████▒░░░░░   77.06 %
+Log     3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+Text    2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+Other   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+MJML    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
