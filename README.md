@@ -46,11 +46,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   3 hrs 30 mins         ███████▓░░░░░░░░░░░░░░░░░   30.22 %
-Rust       3 hrs 15 mins         ███████░░░░░░░░░░░░░░░░░░   28.06 %
-Dart       2 hrs 35 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.35 %
-Text       1 hr 3 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
-PHP        47 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
