@@ -46,11 +46,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other         42 mins               ████████▓░░░░░░░░░░░░░░░░   34.79 %
-Image (png)   24 mins               █████░░░░░░░░░░░░░░░░░░░░   20.13 %
-Markdown      23 mins               █████░░░░░░░░░░░░░░░░░░░░   19.38 %
-TypeScript    16 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 %
-HTML          6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
